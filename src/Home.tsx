@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Result from './result';
+import Result from './Result';
 import star from "../public/images/icon-star.svg"
 export default function Home() {
   const buttonList: number[] = [1, 2, 3, 4, 5]
